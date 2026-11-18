@@ -1,8 +1,2 @@
-<<<<<<< HEAD
-def multiply (x , y):
-  return x * y
-=======
-#This function add two numbers
-def multiply(x,y):
-  return x*y
->>>>>>> origin/main
+def multiply(x, y):
+    return x * y

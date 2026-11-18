@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-def divide (x , y):
-  return x / y
-=======
-#This function adds two numbers
-def divide(x,y):
-    return x/y
->>>>>>> origin/main
+def divide(x, y):
+    if y == 0:
+        return "Cannot divide by zero"
+    return x / y
